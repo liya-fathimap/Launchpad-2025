@@ -20,8 +20,7 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 | **zerOne**  |  a digital sanctuary where complex circuit theories transform into accessible,interactive learning experiences                                            | [Hosted Link 1](https://liya-fathimap.github.io/zerOne/)    | [Repo Link 1](https://github.com/liya-fathimap/zerOne)             |
 | **Execuse-compliment generator**  | A website using HTML,CSS,Javascript,node js,express which generates random excuses and compliment                                           | [Hosted Link 2](https://liya-fathimap.github.io/chatbot-generate/)    | [Repo Link 2](https://github.com/liya-fathimap/chatbot-generate)             |
 | **PROMO**  | a website for a visual media business to showcase creative work | [Hosted Link 3](https://liya-fathimap.github.io/promo/)    | [Repo Link 3](https://github.com/liya-fathimap/promo)             |
-| **Zealous**  | Developed a website for a coaching institute featuring program details, contact forms, and a streamlined inquiry process. | 
-[Hosted Link 3](https://zealouslearning.com/)    | [Repo Link 3](https://github.com/liya-fathimap/zealous)             |
+| **Zealous**  | Developed a website for a coaching institute featuring program details, contact forms, and a streamlined inquiry process. | [Hosted Link 3](https://zealouslearning.com/)    | [Repo Link 3](https://github.com/liya-fathimap/zealous)             |
 
 #### Leadership and Influence:
 
