@@ -17,9 +17,10 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Pawfect Match**  |  pet adoption platform designed to connect loving homes with pets in need through an intuitive and user-friendly interface.                                             | [Hosted Link 1](https://pet-adoption-platform-ecru.vercel.app/)    | [Repo Link 1](https://github.com/Evlinsara/PetAdoptionPlatform.git)             |
-| **TODO App**  | A collaborative task management tool with real-time updates, drag-and-drop functionality, and collaboration features.                                             | [Hosted Link 2](https://evlinsara.github.io/Todo-List/)    | [Repo Link 2](https://github.com/Evlinsara/Todo-List.git)             |
-| **Tic-Tac-Toe**  | A simple interactive Tic-Tac-Toe game where two players take turns marking X and O to win by aligning three symbols in a row, column, or diagonal.                                             | [Hosted Link 3](https://evlinsara.github.io/Tic-tac-toe/)    | [Repo Link 3](https://github.com/Evlinsara/Tic-tac-toe.git)             |
+| **zerOne**  |  a digital sanctuary where complex circuit theories transform into accessible,interactive learning experiences                                            | [Hosted Link 1](https://liya-fathimap.github.io/zerOne/)    | [Repo Link 1](https://github.com/liya-fathimap/zerOne)             |
+| **Execuse-compliment generator**  | A website using HTML,CSS,Javascript,node js,express which generates random excuses and compliment                                           | [Hosted Link 2](https://liya-fathimap.github.io/chatbot-generate/)    | [Repo Link 2](https://github.com/liya-fathimap/chatbot-generate)             |
+| **PROMO**  | a website for a visual media business to showcase creative work
+| [Hosted Link 3](https://liya-fathimap.github.io/promo/)    | [Repo Link 3](https://github.com/liya-fathimap/promo)             |
 
 #### Leadership and Influence:
 
